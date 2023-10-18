@@ -5,4 +5,3 @@ Add-vacuum-layer.py for layer materials like POSCAR2.
 The default value for vacuum space is 20 Ansgtrom.  
 The default direction is along the Z axis.  
 The default input file name is 'POSCAR'.  
-
