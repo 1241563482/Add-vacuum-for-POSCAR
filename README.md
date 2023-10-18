@@ -1,5 +1,4 @@
 # Add-vacuum-for-POSCAR
-Add vacuum space for POSCAR.  
 Note  
 Add-vacuum-bulk.py for bulk materials like POSCAR1.  
 Add-vacuum-layer.py for layer materials like POSCAR2.  
